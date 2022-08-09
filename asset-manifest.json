@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.141de6ad.css",
+    "main.js": "/static/js/main.1eca00e5.js",
+    "static/media/driver_trip.jpg": "/static/media/driver_trip.46b203308cb7a45296c5.jpg",
+    "static/media/about-me.jpg": "/static/media/about-me.2db92048d635aa918206.jpg",
+    "static/media/me_no_background.png": "/static/media/me_no_background.8ae70dc1feaa75f058be.png",
+    "static/media/issue_tracker.JPG": "/static/media/issue_tracker.4ddfa0e35408fb769538.JPG",
+    "static/media/Berg_Colin_Resume_2022_Software_Engineer.pdf": "/static/media/Berg_Colin_Resume_2022_Software_Engineer.b62a3028fdcde35bea55.pdf",
+    "index.html": "/index.html",
+    "main.141de6ad.css.map": "/static/css/main.141de6ad.css.map",
+    "main.1eca00e5.js.map": "/static/js/main.1eca00e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.141de6ad.css",
+    "static/js/main.1eca00e5.js"
+  ]
+}
